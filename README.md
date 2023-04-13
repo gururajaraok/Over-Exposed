@@ -1,2 +1,2 @@
 # Over-Exposed
-Over Exposed Images Detection - Machine Learning - Python
+Over Exposed Images Detection - Machine Learning - Python    
